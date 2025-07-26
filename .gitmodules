@@ -1,0 +1,12 @@
+[submodule "SolarSimulation/vendor/glfw"]
+	path = SolarSimulation/vendor/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "SolarSimulation/vendor/glad"]
+	path = SolarSimulation/vendor/glad
+	url = https://github.com/Dav1dde/glad.git
+[submodule "SolarSimulation/vendor/glm"]
+	path = SolarSimulation/vendor/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "SolarSimulation/vendor/imgui"]
+	path = SolarSimulation/vendor/imgui
+	url = https://github.com/ocornut/imgui.git
